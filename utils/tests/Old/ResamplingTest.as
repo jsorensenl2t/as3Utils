@@ -137,6 +137,8 @@ package  {
 			
 			var mc:MovieClip = getSnapshot(tf, RESIZE_TEXT, FIXED_WIDTH, RESIZE_PRE_SCALING, BLUR_AMOUNT, BLUR_QUALITY, SMOOTHING, SAMPLING, SMOOTHING_BMD, PIXEL_SNAPPING, SHOW_BOUNDS);
 			container.addChild(mc);
+			
+			
 		}
 		
 		

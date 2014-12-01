@@ -1,4 +1,7 @@
 package util {
+	/**
+	 * MathUtil 1.0
+	 */
 	public class MathUtil {
 		public static function normalize($value:Number, $min:Number, $max:Number):Number{
 			return ($value - $min) / ($max - $min);
